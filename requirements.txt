@@ -1,0 +1,22 @@
+
+# Machine Learning and Deep Learning Frameworks
+tensorflow==2.17.0
+keras==3.5.0
+scikit-learn==1.5.1
+
+
+# Data Manipulation and Analysis
+pandas==2.2.2
+numpy==1.26.4
+joblib==1.4.2
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Image Processing
+pillow==10.4.0
+
+
+# Communication with database
+psycopg2-binary==2.9.6

@@ -1,0 +1,1 @@
+Dieser Ordner ist zuständig für die Programmlogik und somit auch für die Verarbeitung der Daten.

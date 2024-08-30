@@ -1,0 +1,19 @@
+/data/
+/db_int/
+/models/
+/.devcontainer/
+/.github/
+/plots/
+Dataset/
+.DS_Store/
+/__pycache__/
+src/app/__pycache__/
+notebooks/__pycache__
+.idea/
+/.idea/git status
+__pycache__/
+/app/__pycache__
+/src/data/__pycache_/
+/src/app/__pycache__/
+/src/visual/__pycache
+
